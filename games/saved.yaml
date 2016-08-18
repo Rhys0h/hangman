@@ -1,0 +1,13 @@
+--- !ruby/object
+guessed_letters:
+- A
+- E
+- F
+- B
+- C
+- D
+rounds_remaining: 6
+word: |
+  ARRIVISTE
+hint_count: 7
+valid_guess: D
